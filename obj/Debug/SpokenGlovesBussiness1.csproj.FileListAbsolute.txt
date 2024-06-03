@@ -1,0 +1,9 @@
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesBussiness1\bin\Debug\SpokenGlovesBussiness1.dll
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesBussiness1\bin\Debug\SpokenGlovesBussiness1.pdb
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesBussiness1\bin\Debug\SpokenGlovesDataAccess1.dll
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesBussiness1\bin\Debug\SpokenGlovesDataAccess1.pdb
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesBussiness1\obj\Debug\SpokenGlovesBussiness1.csproj.AssemblyReference.cache
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesBussiness1\obj\Debug\SpokenGlovesBussiness1.csproj.CoreCompileInputs.cache
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesBussiness1\obj\Debug\SpokenGlovesBussiness1.csproj.CopyComplete
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesBussiness1\obj\Debug\SpokenGlovesBussiness1.dll
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesBussiness1\obj\Debug\SpokenGlovesBussiness1.pdb

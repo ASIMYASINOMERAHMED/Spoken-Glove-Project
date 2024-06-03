@@ -1,0 +1,24 @@
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\bin\Debug\Spoken Gloves Project.exe.config
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\bin\Debug\Spoken Gloves Project.exe
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\bin\Debug\Spoken Gloves Project.pdb
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\bin\Debug\SpokenGlovesBussiness1.dll
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\bin\Debug\SpokenGlovesDataAccess1.dll
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\bin\Debug\SpokenGlovesBussiness1.pdb
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\bin\Debug\SpokenGlovesDataAccess1.pdb
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken Gloves Project.csproj.AssemblyReference.cache
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken Gloves Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken_Gloves_Project.ctrSensorReading.resources
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken_Gloves_Project.Form1.resources
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken_Gloves_Project.frmAddSign.resources
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken_Gloves_Project.frmEditSignInfo.resources
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken_Gloves_Project.frmReadings.resources
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken_Gloves_Project.frmRemoveSign.resources
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken_Gloves_Project.frmUpdateSign.resources
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken_Gloves_Project.Properties.Resources.resources
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken Gloves Project.csproj.GenerateResource.cache
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken Gloves Project.csproj.CoreCompileInputs.cache
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken Gloves Project.csproj.CopyComplete
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken Gloves Project.exe
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken Gloves Project.pdb
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\obj\Debug\Spoken_Gloves_Project.frmTest.resources
+C:\Users\lap2p\source\repos\Spoken Gloves Project\Spoken Gloves Project\bin\Debug\Guna.UI2.dll

@@ -1,0 +1,6 @@
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesDataAccess1\bin\Debug\SpokenGlovesDataAccess1.dll
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesDataAccess1\bin\Debug\SpokenGlovesDataAccess1.pdb
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesDataAccess1\obj\Debug\SpokenGlovesDataAccess1.csproj.AssemblyReference.cache
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesDataAccess1\obj\Debug\SpokenGlovesDataAccess1.csproj.CoreCompileInputs.cache
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesDataAccess1\obj\Debug\SpokenGlovesDataAccess1.dll
+C:\Users\lap2p\source\repos\Spoken Gloves Project\SpokenGlovesDataAccess1\obj\Debug\SpokenGlovesDataAccess1.pdb
